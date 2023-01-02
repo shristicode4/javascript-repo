@@ -1,3 +1,3 @@
 Javascript notes 
 
-#from udemy classes
+# notes from udemy classes 
